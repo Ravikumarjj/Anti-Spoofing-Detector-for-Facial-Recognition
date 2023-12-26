@@ -4,7 +4,7 @@ from cvzone.FaceDetectionModule import FaceDetector
 from time import time
 
 ####################################
-classID = 0  # 0 is fake and 1 is real
+classID = 1  # 0 is fake and 1 is real
 outputFolderPath = 'Dataset/DataCollect'
 confidence = 0.8
 save = True
